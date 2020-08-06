@@ -1,6 +1,5 @@
 def si(p,r,t):
-  pass
-  pass
+  return(p*r*t/100)
 
 def amount(p,r,t):
   pass
